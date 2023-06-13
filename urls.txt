@@ -1,0 +1,6 @@
+https://gradio.app/quickstart/
+https://www.kaggle.com/code/oyerounak/exploratory-data-analysis
+https://www.kaggle.com/code/parisrohan/featureengg-modelbuild-lr-dtr#1.-Data-preprocessing
+https://www.freecodecamp.org/news/build-gui-using-gradio-for-machine-learning-models/
+https://realpython.com/pandas-merge-join-and-concat/#how-to-use-merge
+https://gradio.app/developing-faster-with-reload-mode/
